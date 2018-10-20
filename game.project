@@ -1,0 +1,6 @@
+[project]
+title = PlayFabDefoldClientSdk
+version = 0.44.181001
+
+[library]
+include_dirs = PlayFab
